@@ -1,4 +1,4 @@
-# GameProgrammingPatterns
+# Game Programming Patterns
 <details><summary> This repository serves as a reference for some design patterns that I have used in my projects and will continue to use. I created it to consolidate and keep track of certain patterns, avoiding redundancy and facilitating their future use in upcoming projects.
   
 ### I plan to add all other design patterns as I learn.
