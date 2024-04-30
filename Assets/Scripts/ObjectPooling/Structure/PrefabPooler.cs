@@ -18,8 +18,6 @@ namespace ObjectPooling.Structure
         [Tooltip("How many objects will be created as soon as the game loads")] [SerializeField]
         private int startSize = 10;
         
-        public int StartSize => startSize;
-        public GameObject[] Models => models;
 
         private void OnEnable()
         {

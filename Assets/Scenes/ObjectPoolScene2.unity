@@ -237,7 +237,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   models:
-  - {fileID: 5643782328898678206, guid: 3d0146700d292e0488d987adfd2e2b8d, type: 3}
+  - {fileID: 845821114821180506, guid: 28d4e771f0c1cba4cb0412f566733e40, type: 3}
   startSize: 10
 --- !u!4 &921463205
 Transform:
@@ -379,7 +379,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Pooler: {fileID: 921463204}
   Prefabs:
-  - {fileID: 5643782328898678206, guid: 3d0146700d292e0488d987adfd2e2b8d, type: 3}
+  - {fileID: 845821114821180506, guid: 28d4e771f0c1cba4cb0412f566733e40, type: 3}
+  distanceBetweenObjectsX: 2.5
+  distanceBetweenObjectsY: 1.5
 --- !u!4 &1737104817
 Transform:
   m_ObjectHideFlags: 0
