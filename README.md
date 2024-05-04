@@ -11,6 +11,9 @@
  1. [Observer](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/ObserverPattern)
  2. [State Machine](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/StatePattern)
 
+### Creational Patterns
+1. [Factory Method](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/FactoryPattern)
+
 ### Game Programming Patterns
 1. [Object Pooling](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/ObjectPooling)
 
