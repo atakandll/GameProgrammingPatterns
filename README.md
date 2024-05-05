@@ -12,6 +12,9 @@
  2. [State Machine](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/StatePattern)
  3. [Strategy](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/StrategyPattern)
 
+### Structural Patterns
+1. [Decorator](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/DecoratorPattern)
+
 ### Creational Patterns
 1. [Factory Method](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/FactoryPattern)
 
