@@ -10,6 +10,7 @@
 ### Behavioral Patterns
  1. [Observer](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/ObserverPattern)
  2. [State Machine](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/StatePattern)
+ 3. [Strategy](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/StrategyPattern)
 
 ### Creational Patterns
 1. [Factory Method](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/FactoryPattern)
