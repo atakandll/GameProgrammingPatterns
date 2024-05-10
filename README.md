@@ -16,7 +16,8 @@
 1. [Decorator](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/DecoratorPattern)
 
 ### Creational Patterns
-1. [Factory Method](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/FactoryPattern)
+1. [Abstract Factory](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/AbstractFactoryPattern)
+2. [Factory Method](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/FactoryPattern)
 
 ### Game Programming Patterns
 1. [Object Pooling](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/ObjectPooling)
