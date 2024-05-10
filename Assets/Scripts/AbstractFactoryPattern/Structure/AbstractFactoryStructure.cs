@@ -102,7 +102,7 @@ namespace AbstractFactoryPattern.Structure
 
     #region Client
 
-    class Client
+    partial class Client
     {
         private AbstractProductA _productA;
         private AbstractProductB _productB;
