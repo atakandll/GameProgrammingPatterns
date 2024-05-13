@@ -1,5 +1,4 @@
-﻿using AbstractFactoryPattern.Structure;
-
+﻿
 namespace AbstractFactoryPattern.Practise
 {
     class Factory1 : Factory

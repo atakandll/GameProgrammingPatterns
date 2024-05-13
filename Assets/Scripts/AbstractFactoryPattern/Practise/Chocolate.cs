@@ -1,4 +1,4 @@
-﻿namespace AbstractFactoryPattern.Structure
+﻿namespace AbstractFactoryPattern.Practise
 {
     public abstract class Chocolate
     {
