@@ -2,7 +2,7 @@
 
 namespace Singleton.Structure
 {
-    public class PersistenceSingleton<T> : MonoBehaviour where T : Component
+    public class PersistentSingleton<T> : MonoBehaviour where T : Component
     {
         private static T instance;
 
