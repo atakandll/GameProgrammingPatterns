@@ -4,39 +4,23 @@ namespace CommandPattern.Practise
 {
     public class Invoker
     {
-        private readonly ICommand _lightOnCommand;
-        private readonly ICommand _lightOffCommand;
-        private readonly ICommand _lightUpCommand;
-        private readonly ICommand _lightDownCommand;
+        private readonly ICommand cmd;
+      
 
-        public Invoker(ICommand lightOnCommand, ICommand lightOffCommand, ICommand lightUpCommand,
-            ICommand lightDownCommand)
+        public Invoker(ICommand cmd)
         {
-            _lightOnCommand = lightOnCommand;
-            _lightOffCommand = lightOffCommand;
-            _lightUpCommand = lightUpCommand;
-            _lightDownCommand = lightDownCommand;
-            
+            this.cmd = cmd;
         }
-        public void ClickLightOn()
+        public void On()
         {
-            _lightOnCommand.Execute();
+            cmd.Execute();
         }
 
-        public void ClickLightOff()
+        public void Off()
         {
-            _lightOffCommand.Execute();
+            cmd.Undo();
         }
-
-        public void ClickLightUp()
-        {
-            _lightUpCommand.Execute();
-        }
-
-        public void ClickLightDown()
-        {
-            _lightDownCommand.Execute();
-        }
+       
 
        
     }
