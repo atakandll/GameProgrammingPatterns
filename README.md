@@ -19,6 +19,7 @@
 ### Creational Patterns
 1. [Abstract Factory](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/AbstractFactoryPattern)
 2. [Factory Method](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/FactoryPattern)
+3. [Singleton](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/Singleton)
 
 ### Game Programming Patterns
 1. [Object Pooling](https://github.com/atakandll/GameProgrammingPatterns/tree/main/Assets/Scripts/ObjectPooling)
